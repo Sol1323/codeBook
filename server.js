@@ -1,5 +1,5 @@
 'use strict'
-
+//Very good clean routing!
 var express = require('express');
 var mongoose = require('mongoose');
 var bodyParser = require('body-parser');
