@@ -5,7 +5,12 @@ MERN stack application designed to store your favorite code.
 #Wireframes, ERD and User Stories
 [Click here to see a better image.](https://www.docdroid.net/FfW8I7l/codebook.pdf.html)
 ![alt tag](http://i.imgur.com/33MD5xJ.png)
+
+#Components
+*This is only a representation of how the components are nested.*
 ![alt tag](http://i.imgur.com/5IxBgsk.jpg)
+
+#RecipeBox fragment 
 ![alt tag](http://i.imgur.com/7sEgKbq.png)
 
 #System dependencies
@@ -30,6 +35,16 @@ MERN stack application designed to store your favorite code.
 
 #Database creation
   NoSQL
+  
+#Installation 
+
+$ git clone
+$ cd codeBook
+$ npm install
+$ npm run start-dev 
+
+Now you should be able to go to localhost:3000!
+
 
 
 
