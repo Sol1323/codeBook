@@ -37,11 +37,12 @@ MERN stack application designed to store your favorite code.
   NoSQL
   
 #Installation 
-
+```
 $ git clone
 $ cd codeBook
 $ npm install
 $ npm run start-dev 
+```
 
 Now you should be able to go to localhost:3000!
 
